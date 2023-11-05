@@ -1,0 +1,26 @@
+.Product {
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 25px;
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    padding: 25px; 
+
+}
+
+.Home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.image {
+    height: 100px;
+    width: 80px;
+}
